@@ -1,0 +1,8 @@
+RASTAK SOLUTIONS — WEBSITE
+1. Extraia a pasta do ZIP.
+2. Abra index.html num navegador para visualizar.
+3. Para publicar, envie todo o conteúdo da pasta para um serviço de alojamento de sites estáticos.
+4. O catálogo PDF está em assets/catalogo-rastak-solutions-2026.pdf.
+5. O botão WhatsApp está configurado para +244 943 106 460.
+
+Nota: o catálogo enviado está incluído integralmente no site. Como os itens do PDF são apresentados como imagens, os produtos foram agrupados por categorias na página; os preços e referências devem ser consultados no PDF ou confirmados pelo WhatsApp. Não foram inventados preços nem stock.
